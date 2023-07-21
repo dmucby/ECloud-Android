@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: wang_pan
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/pan?serverTimezone=UTC
+    username: root
+    password: 123456
+  redis:
+    port: 6379
+    host: 127.0.0.1
+    password: 123456
+  servlet:
+    multipart:
+      max-file-size: 10MB # 设置单个文件的大小为10M
+      max-request-size: 50MB # 设置总上传的数据大小为50M
+server:
+  port: 8089
+  servlet:
+    context-path: /xcloud
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: false
+
+alibaba:
+  cloud:
+    accessKey: LTAI5tCTrKbSKGdW5tyEb5DY
+    secretKey: Gaobra4rvihr9RCvUsgKJTnBUV09Be
+    oss:
+      endpoint: oss-cn-beijing.aliyuncs.com
