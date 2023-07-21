@@ -41,6 +41,16 @@
 
 ![image-20230721142656050](https://personal-drawing-bed.oss-cn-beijing.aliyuncs.com/img/image-20230721142656050.png)
 
+## 代码展示
+
+```powershell
+$ onefetch
+```
+
+整体代码展示：
+
+![image-202307211528502314](https://personal-drawing-bed.oss-cn-beijing.aliyuncs.com/img/image-20230721152850234.png)
+
 ## 界面展示
 
 用户主界面：
