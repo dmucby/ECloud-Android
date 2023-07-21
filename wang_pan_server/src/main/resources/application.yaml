@@ -24,7 +24,7 @@ mybatis-plus:
 
 alibaba:
   cloud:
-    accessKey: LTAI5tCTrKbSKGdW5tyEb5DY
-    secretKey: Gaobra4rvihr9RCvUsgKJTnBUV09Be
+    accessKey: 
+    secretKey: 
     oss:
-      endpoint: oss-cn-beijing.aliyuncs.com
+      endpoint: 
