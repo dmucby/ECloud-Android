@@ -1,8 +1,4 @@
-# XCloud App
-
-XCloud App : 适合初学者，喜欢的小伙伴可以点上边的Star支持一下哦
-
-***
+# ECloud App
 
 ### 项目架构
 
@@ -14,18 +10,5 @@ XCloud App : 适合初学者，喜欢的小伙伴可以点上边的Star支持一
     * okio: 1.17.4
     * Jackson
 
-#### 后台
-
-* SpringBoot
-* MyBatis
-* MySQL
-* Redis:缓存
-* Druid:阿里高性能数据库链接池
-* 阿里OSS:文件服务器 
-* ThymeLeaf:模板引擎
-* Nginx:反向代理
-* Tomcat
-* Maven
-* jackson
-* 二维码工具类
-
+参考项目(二次开发和代码重构)：
+* [XCloud](https://github.com/ghsger/XCloud):缺点：接口复杂混乱，优点：能跑！
